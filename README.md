@@ -9,7 +9,6 @@ This program requires many open files (ulimit -n 4096), because of the number of
 
 TODO:
 * Add File output for both Traceroute hops and AS path (+ Prefix)
-* Parse file to find corrupt/missing results
-* * Re-run traceroute on these results
+* Parse file to find corrupt/missing results and Re-run traceroute on these results
 * Add probe to determine maximum number of concurrent traceroutes that should be run
 * IPv6 Support
